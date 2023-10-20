@@ -2,4 +2,6 @@ distro
 jinja2
 pyroute2
 requests
+# This can be changed to plain `rpmautospec-core` once it’s available on PyPI:
+https://github.com/fedora-infra/rpmautospec-core/releases/download/0.1.0/rpmautospec_core-0.1.0-py3-none-any.whl
 templated-dictionary
